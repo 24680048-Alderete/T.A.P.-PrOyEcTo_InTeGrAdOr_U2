@@ -36,20 +36,16 @@ ProyectoIntegradorU2/
 ```bash
 pip install flet
 ```
-🚀 Instrucciones de uso
-Clona o descarga este repositorio en tu computadora.
-
-Asegúrate de tener las imágenes en la carpeta assets/. Las rutas en el código hacen referencia a los archivos de imagen listados anteriormente.
-
-Ejecuta la aplicación:
-
-bash
+### 🚀 Instrucciones de uso
+1. Clona o descarga este repositorio en tu computadora.
+2. Asegúrate de tener las imágenes en la carpeta assets/. Las rutas en el código hacen referencia a los archivos de imagen listados anteriormente.
+3. Ejecuta la aplicación:
+```bash
 python tienda_peluches.py
-Interactúa con la interfaz:
-
-Verás el catálogo de peluches organizado en tarjetas con fondo negro.
-
-Puedes hacer clic en el ícono de corazón (favoritos) o en el botón "Agregar" (funcionalidad base sin implementación de compra).
+```
+4. Interactúa con la interfaz:
+   - Verás el catálogo de peluches organizado en tarjetas con fondo negro.
+   - Puedes hacer clic en el ícono de corazón (favoritos) o en el botón "Agregar" (funcionalidad base sin implementación de compra).
 
 📝 Explicación detallada del código
 A continuación se desglosa el código paso a paso, con explicaciones de cada sección.
